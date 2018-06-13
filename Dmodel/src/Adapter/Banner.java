@@ -8,7 +8,7 @@ public class Banner {
 	public void showWithParen(){
 		System.out.println("("+string+")");
 	}
-	public void showWithAster(){
+	public void x(){
 		System.out.println("*"+string+"*");
 	}
 }
